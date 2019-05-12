@@ -15,3 +15,22 @@
 .flags{
     padding-left: 0;
 }
+
+.secret > div{
+    margin: 0 auto;
+    text-align: center;
+}
+
+.secret button
+{
+    background-color: midnightblue;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 5px 20px;
+    cursor: pointer;
+}
+
+.hidden{
+    display: none;
+}
